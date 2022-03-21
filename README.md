@@ -10,5 +10,5 @@ Apa tod
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ## credits
-   - [@midnightmadwalk](https://t.me/midnightmadwalk)
-   - [@DeletedUser420](https://t.me/DeletedUser420)
+   - [@taaufiik25](https://instagram.com/taaufiik25) 
+   - [@Tpk](https://t.me/baksdude)
